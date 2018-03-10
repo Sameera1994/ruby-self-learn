@@ -1,4 +1,5 @@
 "# ruby-self-learn" 
+This is help to you learn Ruby language.
 
 1) ruby outputs.
      -> print.rb
