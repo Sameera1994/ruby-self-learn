@@ -14,3 +14,8 @@ puts arr2[0] #3
 arr3 = ['Welcome']  
 puts arr3[0]  #Welcome
 
+# An array holding two strings  
+arr4 = ['Hello', 'World!']  
+puts arr4[0]  #Hello  
+puts arr4[1]  #World!
+  
