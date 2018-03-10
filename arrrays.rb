@@ -18,4 +18,8 @@ puts arr3[0]  #Welcome
 arr4 = ['Hello', 'World!']  
 puts arr4[0]  #Hello  
 puts arr4[1]  #World!
+
+# we can add anything! 
+arr5[5] = 4.33 
+puts arr5[5] #4.33
   
