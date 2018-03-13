@@ -7,8 +7,11 @@ This is help to you learn Ruby language.
 2) ruby inputs.
     -> input.rb
 
+3) ruby variables.
+    -> variable.rb
+    
 4) numers with operators in ruby
     -> numbers.rb
 
-3) ruby Arrays
+5) ruby Arrays
     -> arrays.rb
