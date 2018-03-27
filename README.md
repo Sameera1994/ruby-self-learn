@@ -1,8 +1,8 @@
-## ruby-self-learn 
+# ruby-self-learn 
 
-<p align="center"><img src="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg"></p>
+<p align="center" width="100px" height="100px"><img src="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg"></p>
 
-# Help to you learn Ruby language.
+## Help to you learn Ruby language.
 
 1) ruby outputs.
      -> print.rb
