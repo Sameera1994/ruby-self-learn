@@ -1,8 +1,8 @@
 ## ruby-self-learn 
 
-<img href="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg">
+<p align="center"><img src="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg"></p>
 
-This is help to you learn Ruby language.
+# Help to you learn Ruby language.
 
 1) ruby outputs.
      -> print.rb
