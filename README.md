@@ -1,6 +1,6 @@
 ## ruby-self-learn 
 
-<a href="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg"></a>
+<img href="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg">
 
 This is help to you learn Ruby language.
 
