@@ -1,6 +1,6 @@
-# ruby-self-learn 
+# Ruby-self-learn 
 
-<p align="center" width="100px" height="100px"><img src="https://commons.wikimedia.org/wiki/File:Ruby_logo.svg"></p>
+<p align="center"><img src="https://www.distance-learning-centre.co.uk/images/ruby-logo.png" width="100px" height="100px"></p>
 
 ## Help to you learn Ruby language.
 
