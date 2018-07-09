@@ -15,9 +15,10 @@ arr3 = ['Welcome']
 puts arr3[0]  #Welcome
 
 # An array holding two strings  
-arr4 = ['Hello', 'World!']  
-puts arr4[0]  #Hello  
-puts arr4[1]  #World!
+arr4 = ['First', 'Second', 'Third']  
+puts arr4[0]  #First  
+puts arr4[1]  #Second
+puts arr4[2]  #Third
 
 # we can add anything! 
 arr5[5] = 4.33 
