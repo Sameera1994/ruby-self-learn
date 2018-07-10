@@ -35,3 +35,8 @@ puts arr4[2]  #Third
 arr5[5] = 4.33 
 puts arr5[5] #4.33
   
+array = Array.new(4, "mac")
+puts #{array}
+
+#result : mac, mac, mac, mac
+
