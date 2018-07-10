@@ -3,6 +3,9 @@
 #Create or Initialize an array
 names = Array.new
 
+#set the size of an array
+names = Array.new(20)
+
 #Empty Array
 arr1 = [] 
 
