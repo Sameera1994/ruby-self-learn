@@ -1,5 +1,8 @@
 #Arrays
 
+#Create or Initialize an array
+names = Array.new
+
 #Empty Array
 arr1 = [] 
 
