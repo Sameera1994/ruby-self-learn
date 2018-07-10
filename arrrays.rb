@@ -6,6 +6,11 @@ names = Array.new
 #set the size of an array
 names = Array.new(20)
 
+#array names size is 10 or length is 10.
+names = Array.new(10)
+puts names.size   #This returns 10
+puts names.length #This also return 10
+
 #Empty Array
 arr1 = [] 
 
