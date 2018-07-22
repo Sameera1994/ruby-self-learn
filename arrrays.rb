@@ -26,10 +26,11 @@ arr3 = ['Welcome']
 puts arr3[0]  #Welcome
 
 # An array holding two strings  
-arr4 = ['First', 'Second', 'Third']  
+arr4 = ['First', 'Second', 'Third', 'Fourth']  
 puts arr4[0]  #First  
 puts arr4[1]  #Second
 puts arr4[2]  #Third
+puts arr4[3]  #Fourth
 
 # we can add anything! 
 arr5[5] = 4.33 
