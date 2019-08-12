@@ -21,3 +21,18 @@ puts 2 * 3  # print 6
 # When you do arithmetic with integers, you'll get integer answers  
 puts 5 / 2   # print 2
 
+
+#Multi-function in the ruby language
+a = 3
+b = 5
+
+add_number = a + b
+subtractio_number = b-a
+multiplication_number = a * b
+division_number = a/b
+
+puts add_number # print 8
+puts subtractio_number # print 2
+
+
+
