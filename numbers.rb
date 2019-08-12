@@ -29,10 +29,12 @@ b = 5
 add_number = a + b
 subtractio_number = b-a
 multiplication_number = a * b
-division_number = a/b
+division_number = (b+1)/a
 
 puts add_number # print 8
 puts subtractio_number # print 2
+puts multiplication_number # print 15
+puts division_number # print 2
 
 
 
